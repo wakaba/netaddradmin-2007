@@ -1,0 +1,19 @@
+netaddradmin-2007
+~~~~~~~~~~~~~~~~~
+
+* Description
+
+This is a simple management tool for local network addresses.  It can
+reduce your cost to manage local IP addresses possibily assinged to
+your network devices.  Host names and descriptions can be associated
+with IP addresses.  List of host names can be output in the Unix
+|/etc/hosts| format, which is useful for DNS-less network in
+particular.  It also provides the "ping" view mode, which lists the
+current status of availability of hosts using Unix |ping| command.
+
+* License
+
+Copyright 2007 Wakaba <w@suika.fam.cx>.
+
+This program is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
