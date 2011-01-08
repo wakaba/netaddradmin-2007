@@ -1,0 +1,5 @@
+AddType text/html .cgi
+AddHandler cgi-script .cgi
+Options +ExecCGI +MultiViews
+
+AddType application/atom+xml .atom
